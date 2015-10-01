@@ -78,5 +78,11 @@ using System.Threading.Tasks;
             decimal totalSum = CalculateSum(sequence);
 
             Console.WriteLine("{0:F2}", totalSum);
+
+		for (int i = 0; i < 5; i++)
+		{
+			Console.WriteLine("Test {0}", i);
+		}
+
         }
     }
