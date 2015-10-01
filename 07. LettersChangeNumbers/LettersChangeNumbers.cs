@@ -77,6 +77,7 @@ class LettersChangeNumbers
 
         decimal totalSum = CalculateSum(sequence);
 
+
         Console.WriteLine("{0:F2}", totalSum);
 
 		int count = 0;
