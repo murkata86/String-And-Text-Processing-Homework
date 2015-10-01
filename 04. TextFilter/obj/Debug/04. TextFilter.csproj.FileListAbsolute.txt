@@ -1,0 +1,6 @@
+D:\C#\StringAndTexProcessingHomework\04. TextFilter\bin\Debug\_04.TextFilter.exe.config
+D:\C#\StringAndTexProcessingHomework\04. TextFilter\bin\Debug\_04.TextFilter.exe
+D:\C#\StringAndTexProcessingHomework\04. TextFilter\bin\Debug\_04.TextFilter.pdb
+D:\C#\StringAndTexProcessingHomework\04. TextFilter\obj\Debug\04. TextFilter.csprojResolveAssemblyReference.cache
+D:\C#\StringAndTexProcessingHomework\04. TextFilter\obj\Debug\_04.TextFilter.exe
+D:\C#\StringAndTexProcessingHomework\04. TextFilter\obj\Debug\_04.TextFilter.pdb

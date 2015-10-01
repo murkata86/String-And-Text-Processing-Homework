@@ -1,0 +1,6 @@
+D:\C#\StringAndTexProcessingHomework\07. LettersChangeNumbers\bin\Debug\_07.LettersChangeNumbers.exe.config
+D:\C#\StringAndTexProcessingHomework\07. LettersChangeNumbers\bin\Debug\_07.LettersChangeNumbers.exe
+D:\C#\StringAndTexProcessingHomework\07. LettersChangeNumbers\bin\Debug\_07.LettersChangeNumbers.pdb
+D:\C#\StringAndTexProcessingHomework\07. LettersChangeNumbers\obj\Debug\_07.LettersChangeNumbers.exe
+D:\C#\StringAndTexProcessingHomework\07. LettersChangeNumbers\obj\Debug\_07.LettersChangeNumbers.pdb
+D:\C#\StringAndTexProcessingHomework\07. LettersChangeNumbers\obj\Debug\07. LettersChangeNumbers.csprojResolveAssemblyReference.cache

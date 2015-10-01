@@ -1,0 +1,6 @@
+D:\C#\StringAndTexProcessingHomework\05. UnicodeCharacters\bin\Debug\_05.UnicodeCharacters.exe.config
+D:\C#\StringAndTexProcessingHomework\05. UnicodeCharacters\bin\Debug\_05.UnicodeCharacters.exe
+D:\C#\StringAndTexProcessingHomework\05. UnicodeCharacters\bin\Debug\_05.UnicodeCharacters.pdb
+D:\C#\StringAndTexProcessingHomework\05. UnicodeCharacters\obj\Debug\05. UnicodeCharacters.csprojResolveAssemblyReference.cache
+D:\C#\StringAndTexProcessingHomework\05. UnicodeCharacters\obj\Debug\_05.UnicodeCharacters.exe
+D:\C#\StringAndTexProcessingHomework\05. UnicodeCharacters\obj\Debug\_05.UnicodeCharacters.pdb

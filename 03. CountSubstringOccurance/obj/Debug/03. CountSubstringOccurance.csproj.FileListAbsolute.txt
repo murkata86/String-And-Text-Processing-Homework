@@ -1,0 +1,6 @@
+D:\C#\StringAndTexProcessingHomework\03. CountSubstringOccurance\bin\Debug\_03.CountSubstringOccurance.exe.config
+D:\C#\StringAndTexProcessingHomework\03. CountSubstringOccurance\bin\Debug\_03.CountSubstringOccurance.exe
+D:\C#\StringAndTexProcessingHomework\03. CountSubstringOccurance\bin\Debug\_03.CountSubstringOccurance.pdb
+D:\C#\StringAndTexProcessingHomework\03. CountSubstringOccurance\obj\Debug\03. CountSubstringOccurance.csprojResolveAssemblyReference.cache
+D:\C#\StringAndTexProcessingHomework\03. CountSubstringOccurance\obj\Debug\_03.CountSubstringOccurance.exe
+D:\C#\StringAndTexProcessingHomework\03. CountSubstringOccurance\obj\Debug\_03.CountSubstringOccurance.pdb

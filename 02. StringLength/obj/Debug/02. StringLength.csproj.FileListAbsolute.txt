@@ -1,0 +1,5 @@
+D:\C#\StringAndTexProcessingHomework\02. StringLength\bin\Debug\_02.StringLength.exe.config
+D:\C#\StringAndTexProcessingHomework\02. StringLength\bin\Debug\_02.StringLength.exe
+D:\C#\StringAndTexProcessingHomework\02. StringLength\bin\Debug\_02.StringLength.pdb
+D:\C#\StringAndTexProcessingHomework\02. StringLength\obj\Debug\_02.StringLength.exe
+D:\C#\StringAndTexProcessingHomework\02. StringLength\obj\Debug\_02.StringLength.pdb
