@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 class Palindromes
     {
+
+		//Finding Palindromes in a text
         static void GetPalindromes(string[] text)
         {
             bool isPalindrome = true;
