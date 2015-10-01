@@ -19,6 +19,7 @@ using System.Text;
             string input = Console.ReadLine();
             string reversedString = ReversingString(input);
 
-            Console.WriteLine(reversedString);   
+            Console.WriteLine(reversedString);  
+			Console.WriteLine(); //Just playing with github			
         }
     }
